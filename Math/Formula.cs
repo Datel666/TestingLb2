@@ -10,7 +10,7 @@ namespace Math
 
         // (((((ln(x) * log3(x)) ^ 3) + lg(x)) / log3(x)) ^ 2)
 
-        //https://planetcalc.ru/2787/
+        //https://planetcalc.ru/2787/ useful thing
 
         public static double formula(double x)
         {
