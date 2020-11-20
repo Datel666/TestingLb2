@@ -11,6 +11,8 @@ namespace Math
         // (((((ln(x) * log3(x)) ^ 3) + lg(x)) / log3(x)) ^ 2)
 
         //https://planetcalc.ru/2787/ useful thing
+        
+        //travis infinite build
 
         public static double formula(double x)
         {
